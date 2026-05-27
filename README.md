@@ -193,6 +193,7 @@ This project covers the complete Business Analyst project lifecycle:
 
 **Amit Lamsal**
 MS Business Analytics — Webster University, St. Louis MO
+
 5 years banking experience — Credit Risk & Operations | Siddhartha Bank Limited
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amitlamsal-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/amitlamsal)
