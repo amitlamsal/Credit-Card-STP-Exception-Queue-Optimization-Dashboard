@@ -69,20 +69,31 @@ A U.S. bank processing credit card applications had:
 
 ## Dashboard Pages
 
+## Dashboard Pages
+
 ### Page 1 — Executive Overview
 All 8 KPI tiles with RAG color coding, monthly application volume trend, STP vs Manual review trend, approval status breakdown, and product-level STP and SLA performance.
 
 **Target users:** VP of Operations, Executive Leadership
+![Executive Overview](Executive%20Dashboard.png)
+
+
+---
 
 ### Page 2 — Operations Dashboard
 STP vs Manual by channel, exception reason breakdown, queue aging bucket cards (Fresh/Aging/At Risk/Critical), bottleneck table with priority conditional formatting, SLA breach trend line, and processing time comparison.
 
 **Target users:** Operations Manager, Process Improvement Analysts
+![Operations Dashboard](Operations%20Dashboard.png)
+
+
+---
 
 ### Page 3 — Risk Dashboard
 Credit score band distribution with manual review trigger zone, approval rate by credit score band, DTI band distribution, high risk vs standard applicants donut, and SLA breach count by credit score band.
 
 **Target users:** Credit Risk Manager, Credit Analysts
+![Risk Dashboard](Risk%20Dashboard.png)
 
 ---
 
