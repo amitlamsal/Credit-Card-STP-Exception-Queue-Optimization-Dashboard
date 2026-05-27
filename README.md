@@ -128,6 +128,8 @@ Credit score band distribution with manual review trigger zone, approval rate by
 ---
 
 ## Project Structure
+
+```
 credit-card-stp-exception-queue-dashboard/
 │
 ├── 01_Requirements/
@@ -164,10 +166,9 @@ credit-card-stp-exception-queue-dashboard/
 │   └── Recommendations_Report.docx
 │
 └── 09_Presentation/
-├── Executive_Summary.docx
-└── Credit_Card_Analytics_Presentation.pptx
-
----
+    ├── Executive_Summary.docx
+    └── Credit_Card_Analytics_Presentation.pptx
+```
 
 ## BA Project Lifecycle Coverage
 
