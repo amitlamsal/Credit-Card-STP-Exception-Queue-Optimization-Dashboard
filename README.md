@@ -25,7 +25,7 @@ A U.S. bank processing credit card applications had:
 - SLA breaches discovered after they occur — no proactive alerting system
 - Exception queue managed on FIFO basis with no aging or priority visibility
 - No data on which exception types drive the most manual reviews
-- STP rate of **46.7%** against an **80% policy target** — 33 percentage points below target
+
 
 ---
 
