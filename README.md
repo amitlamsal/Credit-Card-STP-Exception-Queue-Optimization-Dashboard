@@ -125,7 +125,6 @@ Credit score band distribution with manual review trigger zone, approval rate by
 | **Excel** | EDA analysis, Data Dictionary, UAT Checklist |
 | **Word** | BRD, Business Rules, Findings, Recommendations, Executive Summary |
 | **PowerPoint** | 16-slide project presentation deck |
-
 ---
 
 ## Project Structure
